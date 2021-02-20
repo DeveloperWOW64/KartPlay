@@ -157,3 +157,26 @@ Cmd: translateComputeKernel
 Cmd: compileComputeKernel
   api=14 insize=79248 outsize=12737 ok=1
 Cmd: compileComputeKernel
+  api=14 insize=79248 outsize=28029 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=4257 outsize=6327 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=11439 outsize=21013 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=26211 outsize=53830 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=5858 outsize=9649 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=4542 outsize=6954 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=5183 outsize=8967 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=3418 outsize=4403 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=14277 outsize=27203 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=4442 outsize=2858 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2771 outsize=3157 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=1900 outsize=4426 ok=1
