@@ -216,3 +216,8 @@ Cmd: translateComputeKernel
   api=14 insize=2854 outsize=3272 ok=1
 Cmd: translateComputeKernel
   api=14 insize=3251 outsize=3750 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=79248 outsize=13796 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=79248 outsize=23562 ok=1
+Cmd: compileComputeKernel
